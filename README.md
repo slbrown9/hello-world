@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154
+Hello! I'm Samantha. I currently live in Durham with my Fiance and two Boston Terriers. 
